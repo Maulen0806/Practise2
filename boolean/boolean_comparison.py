@@ -1,4 +1,6 @@
-is_true = True
-is_false = False
-print(f"is_true = {is_true}, type: {type(is_true)}")
-print(f"is_false = {is_false}, type: {type(is_false)}")
+a = 10
+b = 5
+c = 15
+print(f"a < b -> {a < b}")
+print(f"a < c -> {a < c}")
+print(f"b < c -> {b < c}")
